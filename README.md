@@ -1,6 +1,12 @@
 # Probabilistic-Programming-and-Bayesian-Statistics
 
-### Baseball Data
+### Data Inside Folders
+
+#### Core
+contains sample data files on Galapagos finch beaks, nuclear power, speed of light, among others
+
+
+#### Baseball Data
 Baseball Databank is a compilation of historical baseball data in a
 convenient, tidy format, distributed under Open Data terms.
 
