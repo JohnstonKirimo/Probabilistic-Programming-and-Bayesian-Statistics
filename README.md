@@ -6,8 +6,8 @@
 contains sample data files on Galapagos finch beaks, nuclear power, speed of light, among others
 
 
-#### Baseball Data
-Baseball Databank is a compilation of historical baseball data in a
+#### Data
+Contains data from the baseball Databank, a compilation of historical baseball data in a
 convenient, tidy format, distributed under Open Data terms.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike
